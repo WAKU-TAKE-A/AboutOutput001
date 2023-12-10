@@ -1,2 +1,5 @@
 # AboutOutput001
-プログラミングの記事ー（08）Visual Studioの設定のサンプルプログラム
+
+https://waku-take-a.github.io/Programming.html
+
+の「（08）Visual Studioの設定」のサンプルプログラム
